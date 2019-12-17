@@ -199,4 +199,4 @@ Text file     Positive Prob             Negative Prob
 9816          -1551.175906951207     -1547.3232167198862 
 9960          -1804.7901561334843    -1787.1632629361595 
 9973          -1165.478112775439     -1170.1588200699553 
-Positive Accuracy =====>48.0   Negative Accuracy =====>52.0
+Positive Reviews % =====>48.0   Negative Reviews % =====>52.0
